@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **M.Sc. Population Health** (Distinction), University College London, United Kingdom 2019
+* **PG Certificate in Pharmacy Practice**, Monash University, Australia 2016
+* **B.Sc. Pharmacy**, Monash University, Australia 2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
+## Work experience
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* February 2020 to Present: **Research Assistant**
+  * Imperial College London, United Kingdom
+  * Achievements: 5 published peer-review journal articles to date
+  * Supervisor: Professor Alex Bottle
+
+* January 2016 to July 2018: **Clinical and Resident Pharmacist**
+  * Barwon Health, University Hospital Geelong, Australia
+  * Achievements: Presented at 2017 Society of Hospital Pharmacists Australia Conference
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2018: **Sole Sunday Pharmacist**
+  * Community Care Pharmacy
+
+* 2015: **Student Pharmacist Summer Placements**
+  * Royal Women's Hospital
+  * Royal Children's Hospital
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2011 to 2015: **Student Pharmacist**
+  * Blackshaws Road Pharmacy
+  * Quality Pharmacy
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Skills
+
+* Statistical software
+  * SAS
+  * STATA
+  * R
+* Languages: English (Fluent), Indonesian (Professional working proficiency)
+
+---
+
+## Volunteering
+
+* Hospital Goyeneche - Work the World in Arequipa, Peru 
+* Homework help - Drummond Street Services
